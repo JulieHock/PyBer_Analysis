@@ -12,5 +12,5 @@ When the data was combined, we calculated a total of 2,375 total rides, split am
 
 As we break down the total fares by city type, we cna start to see trends in rides from January 1, 2019 through April 29, 2019.  All three city types have a peak in fare at the end of February and then drop at the beginning of March, with rural and urban having a second spike around the beginning of April.  Urban has the most variation in their fares during January through April, with Rural being the most constant during that time.  Rural's fares start and end around the same price, while Suburban increases total fares about $500 during this time and Urban increases about $200 in total fares.  
 
-![total fare by city type](https://github.com/JulieHock/PyBer_Analysis/blob/main/Analysis/ride_sharing_summary_table.png)
+![total fare by city type](https://github.com/JulieHock/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
